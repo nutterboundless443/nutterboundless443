@@ -1,16 +1,17 @@
-## Hi there 👋
+![serverless-architecture development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbHdxczMyenZzOGJlbGpyZ2RqNjF6YWRudTY5Zmw2NGt6aXlkbjhyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UzVAgtxx7DBra/giphy.gif)
 
-<!--
-**nutterboundless443/nutterboundless443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 介绍
+你好！我是nutterboundless443，热衷于编程和开源项目的开发。
 
-Here are some ideas to get you started:
+# 技能
+- 编程语言：Python, JavaScript, Java
+- Web开发：HTML, CSS, React
+- 数据库：MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 项目
+- [项目1](https://github.com/nutterboundless443/project1)：描述项目1的功能和技术栈。
+- [项目2](https://github.com/nutterboundless443/project2)：描述项目2的功能和技术栈。
+
+# 联系
+- 邮箱：nutterboundless443@example.com
+- LinkedIn：[nutterboundless443](https://www.linkedin.com/in/nutterboundless443)
